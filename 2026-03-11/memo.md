@@ -1,0 +1,1 @@
+/home/iniad/research/2026-03-10/Broker_explain.md の３つの要素について順番に理解する、翌日に問題点について理解する
